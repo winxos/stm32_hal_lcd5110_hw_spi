@@ -9,3 +9,5 @@ you need to connected your screen to the right pin on your board.
 
 https://www.youtube.com/watch?v=m6O2xugY0zY
 [![Watch the video](https://img.youtube.com/vi/m6O2xugY0zY/maxresdefault.jpg)](https://www.youtube.com/watch?v=m6O2xugY0zY)
+https://www.youtube.com/watch?v=CTeknRuADOo
+[![Watch the video](https://img.youtube.com/vi/CTeknRuADOo/maxresdefault.jpg)](https://www.youtube.com/watch?v=CTeknRuADOo)
